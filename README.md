@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
-[![Jagdish GitHub stats](https://github-readme-stats.vercel.app/api?username=jagdish663)](https://github.com/jagdish663/github-readme-stats)
+![Jagdish GitHub stats](https://github-readme-stats.vercel.app/api?username=jagdish&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jagdish663&theme=radical&no-frame=false&no-bg=true&margin-w=4)
