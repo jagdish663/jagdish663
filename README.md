@@ -9,8 +9,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jagdish663&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://streak-stats.demolab.com/?user=jagdish663&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagdish663&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=jagdish663&theme=radical_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagdish663&theme=radical_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jagdish663&theme=radical&no-frame=false&no-bg=true&margin-w=4)
